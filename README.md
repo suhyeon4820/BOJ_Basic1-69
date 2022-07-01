@@ -1,14 +1,16 @@
 # BOJ_Basic1-69
 
 ## 백준 알고리즘 기초 1 (69문제 풀이)
-
+<br>
+기간 : 22-07-01 ~ 
+<br> 
 |구분|단계|문제|등급|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|01|자료구조1|스택|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|2022-04-13|
+|01|자료구조1|스택|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
 |02|자료구조1|단어 뒤집기|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>||
 |03|자료구조1|괄호|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
 |04|자료구조1|스택 수열|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>||
-|05|자료구조1||에디터|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>||
+|05|자료구조1|에디터|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>||
 |06|자료구조1|큐|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
 |07|자료구조1|조세퍼스 문제|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
 |08|자료구조1|덱|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
@@ -56,8 +58,8 @@
 |50|DP1|가장 긴 증가하는 부분 수열|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>||
 |51|DP1|가장 긴 증가하는 부분 수열 4|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>||
 |52|DP1|연속합|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>||
-|53|DP1|제곱수의 합|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>||
-|54|DP1|합분해|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>||
+|53|DP1|제곱수의 합|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>||
+|54|DP1|합분해|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>||
 |55|DP1|1, 2, 3 더하기 3|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>||
 |56|DP1|RGB거리|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>||
 |57|DP1|동물원|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>||
