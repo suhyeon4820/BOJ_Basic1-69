@@ -3,7 +3,7 @@
 ## 백준 알고리즘 기초 1 (69문제 풀이)
 
 |구분|단계|문제|등급|날짜|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 |01|자료구조1|스택|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|2022-04-13|
 |02|자료구조1|단어 뒤집기|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>||
 |03|자료구조1|괄호|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
