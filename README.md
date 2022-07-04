@@ -6,9 +6,9 @@
 
 |구분|단계|문제|등급|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|01|자료구조1|스택|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
+|01|자료구조1|[스택](https://www.acmicpc.net/problem/10828)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[22-07-02](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/01_basic1.cpp)|
 |02|자료구조1|단어 뒤집기|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>||
-|03|자료구조1|괄호|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
+|03|자료구조1|[괄호](https://www.acmicpc.net/problem/9012)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[22-07-04](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/03_basic1.cpp)|
 |04|자료구조1|스택 수열|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>||
 |05|자료구조1|에디터|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>||
 |06|자료구조1|큐|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
@@ -20,8 +20,8 @@
 |12|자료구조1|오등큰수|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>||
 |13|자료구조1|후위 표기식2|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>||
 |14|자료구조1|후위 표기식|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>||
-|15|자료구조1|알파벳 개수|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>||
-|16|자료구조1|알파벳 찾기|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>||
+|15|자료구조1|[알파벳 개수](https://www.acmicpc.net/problem/10808)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[22-07-04](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/15_basic1.cpp)|
+|16|자료구조1|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[22-07-04](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/16_basic1.cpp)|
 |17|자료구조1|문자열 분석|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>||
 |18|자료구조1|단어 길이 재기|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>||
 |19|자료구조1|ROT13|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>||
