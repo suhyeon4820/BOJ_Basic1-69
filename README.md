@@ -22,12 +22,12 @@
 |14|자료구조1|후위 표기식|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>||
 |15|자료구조1|[알파벳 개수](https://www.acmicpc.net/problem/10808)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[22-07-04](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/15_basic1.cpp)|
 |16|자료구조1|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[22-07-04](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/16_basic1.cpp)|
-|17|자료구조1|문자열 분석|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>||
-|18|자료구조1|단어 길이 재기|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>||
-|19|자료구조1|ROT13|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>||
-|20|자료구조1|네 수|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>||
-|21|자료구조1|접미사 배열|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
-|22|수학1|나머지|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>||
+|17|자료구조1|[문자열 분석](https://www.acmicpc.net/problem/10820)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[22-07-06](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/17_basic1.cpp)|
+|18|자료구조1|[단어 길이 재기](https://www.acmicpc.net/problem/2743)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[22-07-06](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/18_basic1.cpp)|
+|19|자료구조1|[ROT13](https://www.acmicpc.net/problem/11655)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|[22-07-07](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/19_basic1.cpp)|
+|20|자료구조1|[네 수](https://www.acmicpc.net/problem/10824)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>|[22-07-07](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/20_basic1.cpp)|
+|21|자료구조1|[접미사 배열](https://www.acmicpc.net/problem/11656)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[22-07-07](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/21_basic1.cpp)|
+|22|수학1|[나머지](https://www.acmicpc.net/problem/10430)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|[22-07-07](https://github.com/suhyeon4820/BOJ_Basic1-69/blob/main/PS/22_basic1.cpp)|
 |23|수학1|최대공약수와 최소공배수|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>||
 |24|수학1|최소공배수|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>||
 |25|수학1|소수 찾기|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>||
